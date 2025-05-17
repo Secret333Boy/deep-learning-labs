@@ -1,0 +1,25 @@
+path: E:\Магістр\semestr2\deep-learning-labs\project\datasets\final
+train: images/train
+val: images/val
+test: images/test
+nc: 19
+names:
+  0: Person military
+  1: Person civil
+  2: Tank
+  3: APV
+  4: Artillery system
+  5: MLRS
+  6: AAWS
+  7: Aircraft
+  8: Helicopter
+  9: UAV
+  10: Warship
+  11: Boat
+  12: Vehicle military
+  13: Vehicle civil truck
+  14: Vehicle civil car
+  15: Fuel tank
+  16: Special equipment
+  17: Cruise missile
+  18: Missile
